@@ -1,5 +1,4 @@
-import {Component, OnInit} from '@angular/core';
-import {HeroService} from "./service/hero-service/hero.service";
+import {Component} from '@angular/core';
 
 @Component({
   selector: 'app-root',
